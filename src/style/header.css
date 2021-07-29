@@ -1,0 +1,21 @@
+/* set my header background image and set it to fit the header space and adust as screen adjusts*/
+.header{
+    background-image: url("/src/assets/ian-schneider-TamMbr4okv4-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*set font settings and padding for h1*/
+.head h1{
+    font-weight: bold;
+    font-size: 60px;
+    padding:10px
+}
+/*set image properties */
+.head img{
+    display:flex;
+    align-items: center;
+    padding-left: 10px;
+    max-height: 200px;
+    max-width: 400px;
+}

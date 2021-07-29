@@ -1,0 +1,37 @@
+/* set headings font and padding*/
+.about-me h2,
+.work-samples h2 {
+    font-size: 40px;
+    padding: 15px;
+}
+/* set background colours and word colours*/
+.a1,
+.work-samples,
+.coming-soon,
+.contact,
+.scratch{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.work-samples a,
+.scratch a,
+.coming-soon a,
+.contact{
+    font-size: 20px;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+   
+}
+
+.work-samples img{
+    height: 500px;
+    width:500px;
+}
+
+.coming-soon img{
+    height: 500px;
+    width: 500px;
+}

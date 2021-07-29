@@ -1,0 +1,16 @@
+/* set font and padding settings for links*/
+nav a{
+    font-size: 30px;
+    color:black;
+    padding: 14px 20px;
+    text-align:center;
+    display:inline-flex;
+    font-weight: 900;
+}
+nav img{
+    display:flex;
+    align-items: center;
+    padding-left: 10px;
+    max-height: 300px;
+    max-width: 500px;
+}
