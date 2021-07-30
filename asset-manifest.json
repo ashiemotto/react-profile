@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.6b51cca0.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.bab3eb37.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.bab3eb37.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.99e25d65.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.99e25d65.js.map",
+    "static/js/2.bd475637.chunk.js": "/react-portfolio/static/js/2.bd475637.chunk.js",
+    "static/js/2.bd475637.chunk.js.map": "/react-portfolio/static/js/2.bd475637.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.6b51cca0.chunk.css.map": "/react-portfolio/static/css/main.6b51cca0.chunk.css.map",
+    "static/js/2.bd475637.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.bd475637.chunk.js.LICENSE.txt",
+    "static/media/Ashton2.9a75bd0a.jpeg": "/react-portfolio/static/media/Ashton2.9a75bd0a.jpeg",
+    "static/media/Scratch.cf654d7a.png": "/react-portfolio/static/media/Scratch.cf654d7a.png",
+    "static/media/Weather.6fad2d5e.png": "/react-portfolio/static/media/Weather.6fad2d5e.png",
+    "static/media/header.css": "/react-portfolio/static/media/ian-schneider-TamMbr4okv4-unsplash.ae2fe826.jpg",
+    "static/media/screen.129adb4e.png": "/react-portfolio/static/media/screen.129adb4e.png",
+    "static/media/techbook.aa180228.png": "/react-portfolio/static/media/techbook.aa180228.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99e25d65.js",
+    "static/js/2.bd475637.chunk.js",
+    "static/css/main.6b51cca0.chunk.css",
+    "static/js/main.bab3eb37.chunk.js"
+  ]
+}
