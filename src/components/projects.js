@@ -7,7 +7,7 @@ import CardFour from './CardFour';
 
 const Project = () => {
     return(
-        <div>
+        <div id='sample'>
        <CardOne />
        <CardTwo />
        <CardThree />
