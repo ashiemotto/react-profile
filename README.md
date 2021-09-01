@@ -19,7 +19,7 @@ npm install
 ```
     
 ## Screenshots
-![picture of website](./images/home.png)
+![picture of website](./images/profile.png)
 
 ## Links
 https://github.com/ashiemotto/react-profile
